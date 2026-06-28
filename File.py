@@ -2,6 +2,7 @@
 PSV Sizing Application — API 521 / API 520 / ASME Section VIII
 ==============================================================
 A professional multi-step VIKTOR application for Pressure Safety Valve sizing.
+By: Amir Mollamohammadi Sadafi
 """
 import logging
 import viktor as vkt
